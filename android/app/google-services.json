@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "838367122176",
+    "project_id": "lnmresell-acb82",
+    "storage_bucket": "lnmresell-acb82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838367122176:android:16477f79039166cc0b59e5",
+        "android_client_info": {
+          "package_name": "com.example.lnm_reselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838367122176-un5rn7840gg3plbsvfek8dfadhgu9ubf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX98QSTgUPoZ89rv_a5fqDslHFOP2Mx48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838367122176-un5rn7840gg3plbsvfek8dfadhgu9ubf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
